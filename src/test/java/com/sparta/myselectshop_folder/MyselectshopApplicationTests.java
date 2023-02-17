@@ -1,4 +1,4 @@
-package com.sparta.myselectshop;
+package com.sparta.myselectshop_folder;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
